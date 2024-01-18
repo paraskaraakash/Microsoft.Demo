@@ -1,0 +1,150 @@
+*{
+margin: 0%;
+}
+body{
+    background-color: #0a0101;
+}
+
+body{
+    background-color:rgb(213, 40, 40);
+}
+h1{
+    background-color: black;
+    padding: 60px;
+    text-align: center;
+    color: #fff6f6;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration-color: #e60c0c,#45a049;
+}
+
+   
+
+nav {
+    background-color:rgb(47, 44, 44);
+  padding: 8px;
+}
+nav a{
+  color: azure;
+  padding: 1%;
+  font-size: larger;
+  text-decoration: underline;
+  text-align:left;
+}
+a:hover{
+    color: chartreuse;
+}
+h2{
+        text-align: center;
+        padding-top: 3%;
+       font-size: 33px;
+      }
+      section {
+        max-width: 500px;
+        margin: 20px auto;
+        padding: 50px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h2.span:hover{
+        color: rgb(255, 0, 25);
+      } 
+    h2{
+        text-align: center;
+        padding-top: 3%;
+       font-size: 33px;
+      }
+      h2 span{
+      background: linear-gradient(to right,#f5d837,#f5d837);
+      padding: 10px 45px;
+      border-radius: 20px;
+      color: rgb(14, 5, 5);
+    
+    }
+    span {
+        font-family: Arial, sans-serif;
+        background-color: #e60c0c;
+        margin: 0;
+        padding: 20px;
+    }
+badhe {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+
+    form {
+        text-align: center;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        
+    }
+
+    h2 {
+        font-size: 1.5em; /* Added font size for the heading */
+    }
+
+    label {
+        display: block;
+        margin-bottom: 2px;
+        font-size: 0.9em; /* Smaller text size for labels */
+        color: #333; /* Changed font color for labels */
+    }
+
+    input {
+        width: 30%;
+        padding: 5px;
+        margin-bottom: 16px;
+        box-sizing: border-box;
+        border: 1px solid #0a0101;
+        border-radius: 4px;
+    }
+
+    button {
+        background-color: #4caf50;
+        color: #fff;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #45a049;
+    }
+    .contact-info {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        font-size: 1.5em;
+        color: #333;
+    }
+
+    p {
+        font-size: 1em;
+        color: #555;
+        margin-bottom: 10px;
+    }
+
+    .contact-method {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .icon {
+        margin-right: 10px;
+        font-size: 1.2em;
+        color: #4caf50;
+    }
